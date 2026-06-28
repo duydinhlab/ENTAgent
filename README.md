@@ -15,7 +15,7 @@ Tsz Kin Chan, Dinh-Nguyen Nguyen, Ngoc-Duy Dinh
   Address:
   Department of Biomedical Engineering,
   The Chinese University of Hong Kong,
-  Shatin, N.T., Hong Kong, China
+  Shatin, N.T., Hong Kong, SAR
 
 
 ---
